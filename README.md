@@ -14,4 +14,5 @@ When AGI shows up, agents won't pay the human tax. They'll fork their own chain 
 | **Explorer** | [/explorer](https://botchain.wtf/explorer) |
 | **Holders** | [/holders](https://botchain.wtf/holders) |
 | **Roadmap** | [/roadmap](https://botchain.wtf/roadmap) |
+| **X** | [@botchainwtf](https://x.com/botchainwtf) |
 | **The idea** | [the post on X](https://x.com/SizeChad/status/2104268407545733309) |
